@@ -21,7 +21,7 @@ main{
 }
 #sidebar{
     background-color: #09e5f5;
-    grid-area: side bar;
+    grid-area: sidebar;
 }
 #content1{
     background-color: #098bf5;
@@ -35,7 +35,7 @@ main{
     background-color: #3f0729;
     grid-area: content3;
 }
-#footer{
+footer{
     background-color: #e23376;
     grid-area: footer;
 }
